@@ -1,2 +1,5 @@
 # Super Store Sales Dashboard
 
+This Super Store Sales Dashboard provides an interactive overview of retail performance by analyzing sales, profit, quantity, and shipping data across different regions and categories. The dashboard highlights key business metrics such as total sales, total quantity sold, profit, and average shipping days, allowing users to quickly evaluate overall store performance. It also presents detailed insights into sales distribution by segment, payment mode, shipping method, category, and subcategory, helping identify top-performing products and customer preferences. Monthly sales and profit trends across years enable comparison of business growth over time, while the geographic map visualizes sales and profit distribution by state. This project demonstrates the use of Power BI to transform raw retail data into meaningful visual insights that support strategic decision-making and business analysis.
+
+<img width="1164" height="661" alt="image" src="https://github.com/user-attachments/assets/756e9767-70a2-4d42-ba35-8ce6646b4f7b" />
